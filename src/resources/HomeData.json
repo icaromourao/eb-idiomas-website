@@ -1,0 +1,145 @@
+{
+  "teacherData": [
+    {
+      "name": "Erivaldo Barbosa",
+      "sub": "Professor de inglês (jovens e adultos)",
+      "image": "/assets/erivaldo.png",
+      "curriculum": [
+        "08 anos estudando nos U.S.A, dentre eles, 03 anos e meio na HARVARD ENGLISH SCHOOL;",
+        "Especialização em Inglês para crianças;",
+        "Criador da metodologia Crazy Moon, metodologia usada na nossa escola;",
+        "Professor e tradutor de Inglês para imigrantes hispânicos e brasileiros nos U.S.A."
+      ]
+    },
+    {
+      "name": "Isadora Bezerra",
+      "sub": "Professora de inglês (crianças)",
+      "image": "/assets/isadora.png",
+      "curriculum": [
+        "Aluna da EB Idiomas;",
+        "Graduanda em Letras;",
+        "Professora de turmas infantis."
+      ]
+    },
+    {
+      "name": "Júlia Estácio",
+      "sub": "Professora de inglês (crianças)",
+      "image": "/assets/julia.png",
+      "curriculum": [
+        "Graduanda em Letras Inglês pela Universidade Estácio.",
+        "Pós-graduanda em Metodologia do Ensino em Língua Inglesa pela FAVENI;",
+        "Aluna da EB Idiomas desde 2021."
+      ]
+    },
+    {
+      "name": "Lívia Sâmila",
+      "sub": "Professora de inglês (crianças e adolescentes)",
+      "image": "/assets/livia.jpg",
+      "curriculum": [
+        "Licenciatura em Pedagogia pela Universidade Estadual do Ceará - UECE;",
+        "Curso de Extensão em História do Brasil Republicano pelo Instituto Federal de Educação, Ciência e Tecnologia do Ceará - IFCE;",
+        "Curso de Inglês Avançado na escola EB Idiomas;",
+        "Larga experiência como docente."
+      ]
+    }
+  ],
+  "pricesData": [
+    {
+      "id": 0,
+      "title": {
+        "image": "/assets/kids.png",
+        "text": "EB Kids"
+      },
+      "subtitle": "Perfeito para crianças de 3 a 10 anos",
+      "age": "3 a 10 anos",
+      "price": "R$ 150,00",
+      "features": [
+        "2 aulas de inglês por semana",
+        "1 hora e 30 minutos por aula",
+        "Salas de aula personalizadas e padronizadas",
+        "Material didático"
+      ]
+    },
+    {
+      "id": 1,
+      "title": {
+        "image": "/assets/linguas.png",
+        "text": "EB Línguas"
+      },
+      "subtitle": "Ideal para crianças de 11 a 12 anos",
+      "age": "11 a 12 anos",
+      "price": "R$ 150,00",
+      "features": [
+        "3 aulas de inglês por semana",
+        "1 hora por aula",
+        "Salas de aula personalizadas e padronizadas",
+        "Material didático"
+      ]
+    },
+    {
+      "id": 2,
+      "title": {
+        "image": "/assets/linguas.png",
+        "text": "EB Línguas"
+      },
+      "subtitle": "Ideal para jovens e adultos",
+      "age": "+13 anos",
+      "price": "R$ 150,00",
+      "features": [
+        "1 aula de inglês por semana",
+        "2 horas por aula",
+        "Sala virtual padronizada",
+        "Material didático"
+      ]
+    }
+  ],
+  "depositionsData": [
+    {
+      "image": "assets/caio.jpg",
+      "title": "Caio Albuquerque",
+      "text": "“Tem uma estrutura física muito boa, trabalho especializado de altíssimo nível e metodologia de ensino e acompanhamento do aluno sem igual. 5 estrelas ainda seriam pouco!! A melhor escola de idiomas da região”"
+    },
+    {
+      "image": "assets/icaro.jpg",
+      "title": "Ícaro Mourão",
+      "text": "“Fui aluno da EB Idiomas por 3 anos e nunca conheci um curso de inglês focada na conversação tão bom quanto o da EB. Hoje consigo conversar, tranquilamente, com pessoas nativas da língua inglesa.”"
+    },
+    {
+      "image": "assets/vivian.jpg",
+      "title": "Vivian (mãe de aluno)",
+      "text": "“Meu filho Raimundo ama ir ao curso de Inglês da EB Idiomas, noto a evolução dele com a língua e sou muito grata a todos que fazem essa maravilhosa empresa. Parabéns!”"
+    }
+  ],
+  "faqData": [
+    {
+      "question": "Tenho opção de fazer alguma aula experimental gratuita antes de ingressar no curso de inglês?",
+      "answer": "Sim. Basta entrar em contato conosco por meio das nossas redes sociais, telefone ou email dispostos no rodapé do nosso site e agendar.",
+      "isFaqOpened": false
+    },
+    {
+      "question": "Qual a idade mínima para fazer o curso de inglês?",
+      "answer": "Recomendável a partir dos 03 anos de idade. Lembrando que quanto mais cedo iniciar melhor para o processo de aprendizado.",
+      "isFaqOpened": false
+    },
+    {
+      "question": "Qual a duração para concluir o curso de inglês?",
+      "answer": "Nosso curso é voltado à conversação, por isso não estipulamos uma duração específica. Varia de acordo com o desenvolvimento do aluno.",
+      "isFaqOpened": false
+    },
+    {
+      "question": "O curso possui horário fixo?",
+      "answer": "Sim. Variando os horários de acordo com a turma.",
+      "isFaqOpened": false
+    },
+    {
+      "question": "Após o fim do curso, é emitido o certificado?",
+      "answer": "Sim, é emitido o certificado de acordo com a necessidade do aluno.",
+      "isFaqOpened": false
+    },
+    {
+      "question": "A EB Idiomas possui aulas online?",
+      "answer": "Sim. Para crianças, adolescentes e adultos. Para mais informações sobre nossas aulas online, &nbsp; <a href=\"https://api.whatsapp.com/send?phone=5588997787949\" target=\"_blank\">entre em contato conosco</a>.",
+      "isFaqOpened": false
+    }
+  ]
+}
